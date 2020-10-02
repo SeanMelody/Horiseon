@@ -42,8 +42,11 @@ header a {
 }
 
 /* Main Page Image */
-.Digital-Marketing-Meeting {
+.main-image {
+    height: 800px;
+    width: 100%;
     margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -84,6 +87,8 @@ content h2 {
     float: right;
     margin-left: 25px;
 }
+/* End of Left Side Content */
+
 
 /* Right Side Content */
 aside {
@@ -113,6 +118,8 @@ aside img {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* End of Right Side Content */
+
 
 footer {
     padding: 30px;
